@@ -18,7 +18,7 @@ Regardless of your background, you will probably feel like trying to take in all
 The Seven Core Concepts
 -----------------------
 
-These lessons are organized around the [seven core elements](http://software-carpentry.org/2012/08/applying-pedagogical-principles-in-this-course.html) shared by all programming languages:
+These lessons are organized around the [seven core elements](http://software-carpentry.org/blog/2012/08/applying-pedagogical-principles-in-this-course.html) shared by all programming languages:
 
 1.	Individual things (the number 2, the string 'hello', a figure)
 2.	Commands that operate on things (the + symbol, the len function)
